@@ -9,3 +9,5 @@
 libraries{
   maven
 }
+unit_test()
+info("Jug: run this from Maven App")

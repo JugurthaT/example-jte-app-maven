@@ -9,5 +9,5 @@
 libraries{
   maven
 }
-GetProjectID()
+
 
